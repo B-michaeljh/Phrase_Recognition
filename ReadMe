@@ -1,0 +1,11 @@
+This project builds and trains a convolutional neural network specifically to solve a audio classification problem.
+Designed to identify Mandarin Chinese phrases. 1. Preparing dataset 2. Training 3. Phrase identifier 4. Flask service
+input required: audio files classified by their phrases
+output: string of identified phrase
+
+
+
+
+
+
+Credit goes to https://github.com/musikalkemist/DeepLearningForAudioWithPython for providing a highly detailed crash course into this topic
